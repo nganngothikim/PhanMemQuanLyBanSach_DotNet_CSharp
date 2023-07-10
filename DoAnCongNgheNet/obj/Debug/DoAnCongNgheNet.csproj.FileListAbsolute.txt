@@ -1,0 +1,29 @@
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DoAnCongNgheNet.exe.config
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DoAnCongNgheNet.exe
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DoAnCongNgheNet.pdb
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DTO.dll
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\MetroFramework.Design.dll
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\MetroFramework.dll
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\MetroFramework.Fonts.dll
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DTO.pdb
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.csprojResolveAssemblyReference.cache
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.frm_Main.resources
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.frm_DangNhap.resources
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.MyReport_ChiTietHD.resources
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.MyReport_ChiTietPN.resources
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.MyReport_Sach.resources
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.Properties.Resources.resources
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.csproj.GenerateResource.Cache
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.exe
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.pdb
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\bin\Debug\DoAnCongNgheNet.exe.config
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.exe
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.pdb
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.csprojResolveAssemblyReference.cache
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.frm_Main.resources
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.frm_DangNhap.resources
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.MyReport_ChiTietHD.resources
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.MyReport_ChiTietPN.resources
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.MyReport_Sach.resources
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.Properties.Resources.resources
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DoAnCongNgheNet\obj\Debug\DoAnCongNgheNet.csproj.GenerateResource.Cache

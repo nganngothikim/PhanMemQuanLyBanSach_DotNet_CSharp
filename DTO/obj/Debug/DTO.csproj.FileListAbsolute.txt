@@ -1,0 +1,10 @@
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.dll
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.pdb
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.dll
+D:\HocTap_Ky5\THHQT\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.pdb
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.dll
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\bin\Debug\DTO.pdb
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.dll
+D:\Tai_Lieu\Thực tập\DoAn_THHeQuanTri\DoAnCongNgheNet\DTO\obj\Debug\DTO.pdb

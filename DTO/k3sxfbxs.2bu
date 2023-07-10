@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.SqlClient;
+namespace DTO
+{
+    public class DBConnect
+    {
+        string strPass;
+
+        public string StrPass
+        {
+            get { return strPass; }
+            set { strPass = value; }
+        }
+        string strUserName;
+
+        public string StrUserName
+        {
+            get { return strUserName; }
+            set { strUserName = value; }
+        }
+        string strSeverName;
+
+        public string StrSeverName
+        {
+            get { return strSeverName; }
+            set { strSeverName = value; }
+        }
+        string strDataBaseName;
+
+        public string StrDataBaseName
+        {
+            get { return strDataBaseName; }
+            set { strDataBaseName = value; }
+        }
+        string strConnection;
+
+        public string StrConnection
+        {
+            get { return strConnection; }
+            set { strConnection = value; }
+        }
+        SqlConnection strConnection;
+    }
+}
